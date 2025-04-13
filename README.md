@@ -61,7 +61,7 @@ Note: The SimSiam models presented in this project were trained from scratch on 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SiddharthTanwar1/DL-Project-SimSiam-reimplementation.git
+   git clone https://github.com/SiddharthTanwar1/DL-Project-SimSiam-reimplementation-.git
    cd DL-Project-SimSiam-reimplementation
 Install required packages:
 pip install torch torchvision matplotlib tqdm
