@@ -54,6 +54,9 @@ DINO was part of the original proposal. However, it was excluded from final eval
 
 ---
 
+## Note on Cifar 
+Note: The SimSiam models presented in this project were trained from scratch on the CIFAR-10 dataset. In contrast, the comparison models (SimCLR, BYOL, and SwAV) utilize publicly available pretrained weights trained on ImageNet. While this introduces a difference in data scale and domain, the comparison still offers meaningful insight into representational quality under lightweight training setups.
+
 ## 🛠️ How to Run
 
 1. Clone this repository:
